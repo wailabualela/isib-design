@@ -1,5 +1,6 @@
 body {
 	font-family: 'Inter', sans-serif;
+	background-color: #ffff;
 }
 /* Navbar */
 .navbar {
@@ -24,4 +25,27 @@ body {
 
 .navbar .nav-item .nav-link.active {
 	color: #e4662b;
+}
+
+/* Hero */
+.hero {
+	background-color: #231166;
+	color: #ffff;
+	height: 74.2vh;
+}
+
+.hero-left {
+	border-radius: 0px 0px 80px 80px;
+}
+.hero-underline {
+	color: #e4662b;
+	border-bottom: 1px #ffff solid;
+	border-bottom-left-radius: -10px;
+}
+.hero-social {
+	background-color: #e4662b;
+}
+
+.hero-social .social-icon {
+	color: #ffff;
 }
