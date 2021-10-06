@@ -32,6 +32,7 @@ body {
 	background-color: #231166;
 	color: #ffff;
 	height: 74.2vh;
+	border-radius: 0px 0px 80px 80px;
 }
 
 .hero-left {
@@ -48,4 +49,9 @@ body {
 
 .hero-social .social-icon {
 	color: #ffff;
+}
+
+/* Footer  */
+footer {
+	background-color: #363839;
 }
