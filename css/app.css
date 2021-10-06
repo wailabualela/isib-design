@@ -51,6 +51,31 @@ body {
 	color: #ffff;
 }
 
+/* Vehicle insurance section */
+.vehicle {
+}
+.btn-1 {
+	color: #29166f;
+	border: #231166 solid 2px;
+}
+
+.btn-1:hover {
+	background-color: #231166;
+	color: #ffff;
+	border: #231166 solid 2px;
+}
+
+.btn-2 {
+	color: #e4662b;
+	border: #e4662b solid 2px;
+}
+
+.btn-2:hover {
+	background-color: #e4662b;
+	color: #ffff;
+	border: #e4662b solid 2px;
+}
+
 /* Footer  */
 footer {
 	background-color: #363839;
